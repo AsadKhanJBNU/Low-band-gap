@@ -17,3 +17,6 @@ The dataset labels are provided and must be downloaded before running the model.
 
 ## Usage  
 Load the trained model and dataset labels to make predictions.  
+## Developer Contact  
+- **Basir Akbar** (Contact: basirakbar98@gmail.com)  
+- **Asad Khan** (Contact: asadkhan@jbnu.ac.kr)
