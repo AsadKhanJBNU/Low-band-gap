@@ -1,0 +1,5 @@
+{
+ "random_forest": {"bootstrap": true, "ccp_alpha": 0.0001583895499599814, "criterion": "squared_error", "max_depth": 19, "max_features": "sqrt", "max_leaf_nodes": 51, "min_impurity_decrease": 0.00040098281840123017, "min_samples_leaf": 1, "min_samples_split": 2, "n_estimators": 257, "random_state": 0},
+ "gradient_boosting": {"criterion": "friedman_mse", "learning_rate": 0.08839188535312976, "loss": "squared_error", "max_depth": 20, "max_features": "log2", "max_leaf_nodes": 15, "min_impurity_decrease": 0.01825443987192928, "min_samples_leaf": 3, "min_samples_split": 9, "n_estimators": 332, "random_state": 49, "subsample": 0.84854690409174},
+ "xgboost": {"objective": "reg:squarederror", "colsample_bylevel": 0.5251103597669132, "colsample_bynode": 0.54103283038997, "colsample_bytree": 0.7096138076061271, "learning_rate": 0.06550724337222495, "max_depth": 14, "n_estimators": 411, "tree_method": "hist", "random_state": 0}
+}
